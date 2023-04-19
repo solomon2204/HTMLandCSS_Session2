@@ -1,0 +1,61 @@
+body {
+  font-family: "lato", sans-serif;
+  background-color: antiquewhite;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: left;
+  font-size: 16px;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+  font-size: 25px;
+}
+h5 {
+  font-size: 25px;
+}
+ol {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+h6 {
+  font-size: 25px;
+}
+ul {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 700;
+  color: black;
+}
+h6 {
+  font-size: 25px;
+}
+
+h7 {
+  font-size: 25px;
+}
+h8 {
+  font-size: 25px;
+}
+h9 {
+  font-size: 25px;
+}
+h10 {
+  font-size: 25px;
+}
+h11 {
+  font-size: 25px;
+}
+h12 {
+  font-size: 25px;
+}
